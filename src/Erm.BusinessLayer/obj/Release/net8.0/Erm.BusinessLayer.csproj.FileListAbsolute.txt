@@ -1,0 +1,15 @@
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Release/net8.0/Erm.BusinessLayer.deps.json
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Release/net8.0/Erm.BusinessLayer.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Release/net8.0/Erm.BusinessLayer.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Release/net8.0/Erm.DataAccess.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Release/net8.0/Erm.DataAccess.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.csproj.AssemblyReference.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.AssemblyInfoInputs.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.AssemblyInfo.cs
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.csproj.CopyComplete
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/refint/Erm.BusinessLayer.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/Erm.BusinessLayer.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Release/net8.0/ref/Erm.BusinessLayer.dll

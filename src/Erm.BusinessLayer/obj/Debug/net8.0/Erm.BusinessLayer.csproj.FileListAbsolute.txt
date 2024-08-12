@@ -1,0 +1,90 @@
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Debug/net8.0/Erm.BusinessLayer.deps.json
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Debug/net8.0/Erm.BusinessLayer.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Debug/net8.0/Erm.BusinessLayer.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Debug/net8.0/Erm.DataAccess.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/bin/Debug/net8.0/Erm.DataAccess.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.csproj.AssemblyReference.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.AssemblyInfoInputs.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.AssemblyInfo.cs
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.csproj.CopyComplete
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/refint/Erm.BusinessLayer.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/Erm.BusinessLayer.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.BusinessLayer/obj/Debug/net8.0/ref/Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.deps.json
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfo.cs
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CopyComplete
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\refint\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm\src\Erm.BusinessLayer\obj\Debug\net8.0\ref\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\refint\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfo.cs
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.deps.json
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CopyComplete
+D:\mami\C#\sample-erm — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\ref\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.deps.json
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfo.cs
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CopyComplete
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\refint\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm2\src\Erm.BusinessLayer\obj\Debug\net8.0\ref\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.deps.json
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfo.cs
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CopyComplete
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\refint\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.BusinessLayer\obj\Debug\net8.0\ref\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.AssemblyInfo.cs
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\refint\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.deps.json
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\Erm.BusinessLayer.csproj.CopyComplete
+D:\mami\C#\sample-erm(test)\src\Erm.BusinessLayer\obj\Debug\net8.0\ref\Erm.BusinessLayer.dll

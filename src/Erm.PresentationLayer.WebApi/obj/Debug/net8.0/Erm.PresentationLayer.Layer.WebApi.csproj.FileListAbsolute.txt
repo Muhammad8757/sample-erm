@@ -1,0 +1,250 @@
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\appsettings.json
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.exe
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.deps.json
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.runtimeconfig.json
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfo.cs
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CopyComplete
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\refint\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.genruntimeconfig.cache
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\ref\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\refint\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfo.cs
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\appsettings.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.exe
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.deps.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.runtimeconfig.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Erm.PresentationLayer.Layer.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Erm.PresentationLayer.Layer.WebApi.props
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Erm.PresentationLayer.Layer.WebApi.props
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Erm.PresentationLayer.Layer.WebApi.props
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\scopedcss\bundle\Erm.PresentationLayer.Layer.WebApi.styles.css
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CopyComplete
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.genruntimeconfig.cache
+D:\mami\C#\sample-erm — копия\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\ref\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\appsettings.json
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.exe
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.deps.json
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.runtimeconfig.json
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfo.cs
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CopyComplete
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\refint\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.genruntimeconfig.cache
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\ref\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.RazorAssemblyInfo.cache
+D:\mami\C#\sample-erm2\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.RazorAssemblyInfo.cs
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.RazorAssemblyInfo.cache
+D:\mami\C#\sample-erm\src\Erm.PresentationLayer.Layer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.RazorAssemblyInfo.cs
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\appsettings.json
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.exe
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.deps.json
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.runtimeconfig.json
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfo.cs
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.RazorAssemblyInfo.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.RazorAssemblyInfo.cs
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CopyComplete
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\refint\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.genruntimeconfig.cache
+D:\mami\C#\sample-erm2 — копия\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\ref\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\refint\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\appsettings.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.exe
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.deps.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.runtimeconfig.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.BusinessLayer.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.AssemblyInfo.cs
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.csproj.CopyComplete
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\Erm.PresentationLayer.Layer.WebApi.genruntimeconfig.cache
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\ref\Erm.PresentationLayer.Layer.WebApi.dll
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Erm.PresentationLayer.Layer.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Erm.PresentationLayer.Layer.WebApi.props
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Erm.PresentationLayer.Layer.WebApi.props
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Erm.PresentationLayer.Layer.WebApi.props
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\mami\C#\sample-erm(test)\src\Erm.PresentationLayer.WebApi\obj\Debug\net8.0\scopedcss\bundle\Erm.PresentationLayer.Layer.WebApi.styles.css
